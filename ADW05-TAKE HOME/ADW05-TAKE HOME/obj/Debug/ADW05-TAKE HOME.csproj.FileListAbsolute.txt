@@ -1,0 +1,11 @@
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\bin\Debug\ADW05-TAKE HOME.exe.config
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\bin\Debug\ADW05-TAKE HOME.exe
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\bin\Debug\ADW05-TAKE HOME.pdb
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.csproj.AssemblyReference.cache
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.csproj.SuggestedBindingRedirects.cache
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05_TAKE_HOME.Form1.resources
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05_TAKE_HOME.Properties.Resources.resources
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.csproj.GenerateResource.cache
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.csproj.CoreCompileInputs.cache
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.exe
+C:\Users\KENT LEE\source\repos\ADW05-TAKE HOME\ADW05-TAKE HOME\obj\Debug\ADW05-TAKE HOME.pdb
